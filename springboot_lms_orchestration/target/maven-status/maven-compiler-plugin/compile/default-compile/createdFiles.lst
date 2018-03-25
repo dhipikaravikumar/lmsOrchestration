@@ -1,0 +1,16 @@
+com\gcit\springboot\lms\entity\Loan.class
+com\gcit\springboot\lms\controller\BorrowerController.class
+com\gcit\springboot\lms\entity\Copy.class
+com\gcit\springboot\lms\controller\LoanController.class
+com\gcit\springboot\lms\entity\Branch.class
+com\gcit\springboot\lms\controller\PublisherController.class
+com\gcit\springboot\lms\entity\Borrower.class
+com\gcit\springboot\lms\SpringbootLmsOrchestrationApplication.class
+com\gcit\springboot\lms\controller\AuthorController.class
+com\gcit\springboot\lms\entity\Author.class
+com\gcit\springboot\lms\entity\Publisher.class
+com\gcit\springboot\lms\controller\CopyController.class
+com\gcit\springboot\lms\entity\Book.class
+com\gcit\springboot\lms\controller\BookController.class
+com\gcit\springboot\lms\entity\Genre.class
+com\gcit\springboot\lms\controller\BranchController.class
